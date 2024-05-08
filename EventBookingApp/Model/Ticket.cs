@@ -9,6 +9,6 @@
         private int QuantitySold { get; set; }
         private int QuantityLeft { get; set; }
 
-        private Event Event { get; set; }
+        private Events Event { get; set; }
     }
 }

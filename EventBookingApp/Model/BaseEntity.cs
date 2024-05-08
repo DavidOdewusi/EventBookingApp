@@ -2,6 +2,6 @@
 {
     public abstract class BaseEntity
     {
-        public readonly int Id;
+        public Guid Id;
     }
 }

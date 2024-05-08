@@ -9,6 +9,6 @@
         private int TicketNumber { get; set; }
         private int QuantityBought { get; set; }
 
-        private Event Event { get; set; }
+        private Events Event { get; set; }
     }
 }
